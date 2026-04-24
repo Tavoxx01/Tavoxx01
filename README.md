@@ -1,96 +1,117 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a2a1a,100:0D1117&height=200&section=header&text=TAVOXX01&fontSize=72&fontColor=7fffb2&animation=fadeIn&fontAlignY=55&stroke=7fffb2&strokeWidth=1"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7fffb2,100:5b8cff&height=160&section=header&text=Tavoxx01&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Developer%20%C2%B7%20Scripter%20%C2%B7%20Builder&descAlignY=60&descSize=16&descColor=cccccc"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=900&color=7FFFB2&center=true&vCenter=true&width=520&lines=Roblox+Scripter+%E2%9A%A1;Minecraft+Modder+%F0%9F%A7%B1;Bot+%26+API+Developer+%F0%9F%8C%90;Platform+Integrator+%F0%9F%94%97)](https://git.io/typing-svg)
-
-<br/>
-
-</div>
-
----
-
-## `> whoami`
-
-```lua
-local Tavoxx01 = {
-  foco    = { "Automação", "Jogos", "Integração entre sistemas" },
-  scripts = "Roblox (Lua)",
-  mods    = "Minecraft (Java + Bedrock)",
-  back    = { "Bots", "APIs REST", "Servidores" },
-  link    = "Minecraft ↔ Roblox ↔ Discord"
-}
+```
+╔══════════════════════════════════════════════════════╗
+║           developer  ·  scripter  ·  builder         ║
+╚══════════════════════════════════════════════════════╝
 ```
 
----
-
-## `> ls projetos/`
-
-| &nbsp; | Projeto | Descrição | Link |
-|:---:|---|---|:---:|
-| 🎮 | **Game-videos-audios** | Mídia e assets para projetos de jogos | [→ ver](https://github.com/Tavoxx01/Game-videos-audios) |
-| 📷 | **roblox-camera-server** | Servidor de câmera para experiências Roblox | [→ ver](https://github.com/Tavoxx01/roblox-camera-server) |
-| 🤖 | **Ticketbotphotos** | Bot de tickets com suporte a imagens | [→ ver](https://github.com/Tavoxx01/Ticketbotphotos) |
-
----
-
-## `> cat stack.txt`
-
-<div align="left">
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1200&color=7FFFB2&center=true&vCenter=true&width=480&lines=%24+roblox+--script+lua+%E2%9A%A1;%24+minecraft+--mod+java+%F0%9F%A7%B1;%24+bot+--deploy+discord+%F0%9F%A4%96;%24+integrate+--platforms+all+%F0%9F%94%97)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-## `> stats --verbose`
+##
+
+```yaml
+# /etc/tavoxx01/profile.yml
+
+identity:
+  handle   : "Tavoxx01"
+  role     : [ "Developer", "Scripter", "Builder" ]
+  timezone : "BR/São Paulo"
+
+focus:
+  - platform : Roblox
+    lang      : Lua
+    area      : Scripts & Game Logic
+
+  - platform : Minecraft
+    lang      : Java
+    area      : Mods & Add-ons
+
+  - platform : Discord / Web
+    lang      : Python · JavaScript
+    area      : Bots · APIs · Servidores
+
+  - goal     : Minecraft ↔ Roblox ↔ Discord integration
+```
+
+##
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tavoxx01&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=7fffb2&icon_color=5b8cff&text_color=c9d1d9&hide_border=false"/>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=7fffb2"/><br/>
+<sub><b>Scripts</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=7fffb2"/><br/>
+<sub><b>Automação</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=7fffb2"/><br/>
+<sub><b>Mods</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7fffb2"/><br/>
+<sub><b>Bots</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=7fffb2"/><br/>
+<sub><b>Versionamento</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+##
+
+<div align="center">
+
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=Tavoxx01&show_icons=true&theme=tokyonight&border_radius=6&bg_color=0D1117&title_color=7fffb2&icon_color=7fffb2&text_color=c9d1d9&border_color=1e3a2a"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavoxx01&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=7fffb2&text_color=c9d1d9&hide_border=false"/>
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavoxx01&layout=compact&theme=tokyonight&border_radius=6&bg_color=0D1117&title_color=7fffb2&text_color=c9d1d9&border_color=1e3a2a"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tavoxx01&theme=tokyonight&border_radius=10&background=0D1117&ring=7fffb2&fire=5b8cff&currStreakLabel=7fffb2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tavoxx01&theme=tokyonight&border_radius=6&background=0D1117&ring=7fffb2&fire=39d353&currStreakLabel=7fffb2&sideLabels=7fffb2&dates=6b8a7a&border=1e3a2a)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## `> git log --activity`
+##
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tavoxx01&theme=tokyo-night&bg_color=0D1117&color=7fffb2&line=5b8cff&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tavoxx01&theme=tokyo-night&bg_color=0D1117&color=7fffb2&line=39d353&point=7fffb2&area_color=0a2a1a&area=true&hide_border=false&border_color=1e3a2a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+##
 
-## `> systemctl status developer`
+<div align="center">
 
 ```diff
-+ ● tavoxx01.service — Developer Process
-+   Status : ONLINE & ACTIVE
-+   Task   : Criando projetos inovadores
-+   Skill  : Evoluindo como desenvolvedor
-+   Uptime : Always learning...
+@@  tavoxx01 · process status  @@
+
++ [ONLINE]   conexão estabelecida
++ [BUILDING] criando projetos inovadores
++ [LEARNING] evoluindo como desenvolvedor
++ [ACTIVE]   sempre disponível para colaborar
 ```
 
----
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:7fffb2&height=100&section=footer&animation=twinkling"/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tavoxx01.Tavoxx01&color=0d1117&labelColor=0a2a1a&label=visitors&style=flat)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Tavoxx01?label=followers&style=flat&color=7fffb2&labelColor=0a2a1a&logo=github)](https://github.com/Tavoxx01)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a2a1a,100:0D1117&height=120&section=footer&animation=fadeIn&stroke=7fffb2&strokeWidth=1"/>
