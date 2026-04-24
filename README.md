@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7fffb2,100:5b8cff&height=160&section=header&text=Tavoxx01&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Developer%20·%20Scripter%20·%20Builder&descAlignY=60&descSize=16&descColor=cccccc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7fffb2,100:5b8cff&height=160&section=header&text=Tavoxx01&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Developer%20%C2%B7%20Scripter%20%C2%B7%20Builder&descAlignY=60&descSize=16&descColor=cccccc"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=900&color=7FFFB2&center=true&vCenter=true&width=500&lines=Roblox+Scripter+%E2%9A%A1;Minecraft+Modder+%F0%9F%A7%B1;Bot+%26+API+Developer+%F0%9F%8C%90;Platform+Integrator+%F0%9F%94%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=900&color=7FFFB2&center=true&vCenter=true&width=520&lines=Roblox+Scripter+%E2%9A%A1;Minecraft+Modder+%F0%9F%A7%B1;Bot+%26+API+Developer+%F0%9F%8C%90;Platform+Integrator+%F0%9F%94%97)](https://git.io/typing-svg)
+
+<br/>
 
 </div>
 
@@ -14,11 +16,11 @@
 
 ```lua
 local Tavoxx01 = {
-  foco     = { "Automação", "Jogos", "Integração entre sistemas" },
-  scripts  = "Roblox (Lua)",
-  mods     = "Minecraft (Java + Bedrock)",
-  back     = { "Bots", "APIs REST", "Servidores" },
-  link     = "Minecraft ↔ Roblox ↔ Discord"
+  foco    = { "Automação", "Jogos", "Integração entre sistemas" },
+  scripts = "Roblox (Lua)",
+  mods    = "Minecraft (Java + Bedrock)",
+  back    = { "Bots", "APIs REST", "Servidores" },
+  link    = "Minecraft ↔ Roblox ↔ Discord"
 }
 ```
 
@@ -26,11 +28,11 @@ local Tavoxx01 = {
 
 ## `> ls projetos/`
 
-| Projeto | Descrição | Link |
-|---|---|---|
-| 🎮 **Game-videos-audios** | Mídia e assets para jogos | [→ ver](https://github.com/Tavoxx01/Game-videos-audios) |
-| 📷 **roblox-camera-server** | Servidor de câmera para Roblox | [→ ver](https://github.com/Tavoxx01/roblox-camera-server) |
-| 🤖 **Ticketbotphotos** | Bot de tickets com suporte a imagens | [→ ver](https://github.com/Tavoxx01/Ticketbotphotos) |
+| &nbsp; | Projeto | Descrição | Link |
+|:---:|---|---|:---:|
+| 🎮 | **Game-videos-audios** | Mídia e assets para projetos de jogos | [→ ver](https://github.com/Tavoxx01/Game-videos-audios) |
+| 📷 | **roblox-camera-server** | Servidor de câmera para experiências Roblox | [→ ver](https://github.com/Tavoxx01/roblox-camera-server) |
+| 🤖 | **Ticketbotphotos** | Bot de tickets com suporte a imagens | [→ ver](https://github.com/Tavoxx01/Ticketbotphotos) |
 
 ---
 
@@ -53,10 +55,11 @@ local Tavoxx01 = {
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Tavoxx01&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&bg_color=0D1117&title_color=7fffb2&icon_color=5b8cff&text_color=c9d1d9"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavoxx01&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&bg_color=0D1117&title_color=7fffb2&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tavoxx01&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=7fffb2&icon_color=5b8cff&text_color=c9d1d9&hide_border=false"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavoxx01&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=7fffb2&text_color=c9d1d9&hide_border=false"/>
 
-<br/>
+<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tavoxx01&theme=tokyonight&border_radius=10&background=0D1117&ring=7fffb2&fire=5b8cff&currStreakLabel=7fffb2)](https://git.io/streak-stats)
 
@@ -78,10 +81,10 @@ local Tavoxx01 = {
 
 ```diff
 + ● tavoxx01.service — Developer Process
-+   Status: ONLINE & ACTIVE
-+   Task:   Criando projetos inovadores
-+   Skill:  Evoluindo como desenvolvedor
-+   Uptime: Always learning...
++   Status : ONLINE & ACTIVE
++   Task   : Criando projetos inovadores
++   Skill  : Evoluindo como desenvolvedor
++   Uptime : Always learning...
 ```
 
 ---
