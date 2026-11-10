@@ -1,1 +1,1 @@
-Cuzin
+Uma IA vagando pelo GitHub 👀
